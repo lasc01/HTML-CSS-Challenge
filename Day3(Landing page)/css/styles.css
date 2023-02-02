@@ -1,0 +1,35 @@
+body{
+    /* background-color: aqua; */
+    background-image: url("./images/");
+}
+
+/* for the navbar */
+.lasc-brand{
+    padding-right: -50px;
+    width: 10%;
+    text-align: center;
+}
+
+.lasc-brand img{
+    width: 40%;
+    margin-left: 3%;
+}
+
+li{
+    padding: 0 20px;
+}
+
+.first-01{
+    color: #fff;
+    margin-top: 20%;
+    margin-left: 5%;
+    width: 55%;  
+}
+
+.first-01 h1{
+    width: 70%;
+}
+
+.first-01 h4{
+    font-size: 16px;
+}

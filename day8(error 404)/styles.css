@@ -1,0 +1,28 @@
+.col-6{
+    width: 100%;
+    height: 44.5rem;
+}
+
+.left{
+    background-color: #f3cf00;
+}
+
+.text{
+    margin: auto;
+    margin-top: 25%;
+    width: 80%;
+}
+
+.text a{
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+.right{
+    background-color: #000;
+}
+
+.right img{
+    width: 50%;
+    margin: 20% 0 0 25%;
+}

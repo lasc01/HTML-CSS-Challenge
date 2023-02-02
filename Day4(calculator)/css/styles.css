@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(88, 88, 88);
+    color: #000;
+}
+
+H1{
+    color: #FFF;
+    font-family: cursive;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.calc2-con{
+    background-color: aqua;
+    border: 2px solid rgb(43, 230, 214);
+    box-shadow: black;
+    border-radius: 15px;
+    height: 350px;
+    margin: 100px 50px;
+    padding: 20px;
+    width: 58%;
+}
+
+/* style for screen */
+
+.screen-bg{
+    background-color: #000;
+    border-radius: 5px 5px 5px 5px;
+    height: 50px;
+    padding: 5px;
+    width: 100%;
+}
+
+.screen{
+    background-color: #7c7967;
+    height: 40px;
+    width: 100%;
+}
+
+.screen p{
+    font-size: 32px;
+    margin-left: 290px;
+    opacity: 0.5;
+    width: 20px;
+}
+
+/* styles for buttons */
+
+.button-con{
+    width: 100%;
+}
+
+.all-buttons{
+    background-color: #e7dfdf;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 26px;
+    padding: 5px 10px;
+    width: 40px;
+}
+
+.all-buttons a{
+    margin-left: -4px;
+    text-align: center;
+    font-size: 12PX;
+}
+
+.lefty{
+    background-color: #e7dfdf;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 5px 10px;
+    width: 40px;
+}
+
+.lefty a{
+    margin-left: -4px;
+    text-align: center;
+    font-size: 12PX;
+}
+
+.first-row{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.third-row{
+    position: relative;
+}
+
+.plus{
+    height: 80px;
+    left: 255px;
+    position: absolute;
+}

@@ -1,0 +1,229 @@
+body{
+    background-color: #fff
+}
+
+#front-view{
+    background-color: #ffffff;
+    width: 400px;
+    height: 230px;
+    border: 1px solid grey;
+    position: relative;
+    border-radius: 10px;
+    margin: 5% 30%;
+    z-index: -1;
+}
+
+.lines-con{
+    width: 90%;
+    margin-top: -150px;
+    padding: 5%;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    z-index: -1;
+}
+
+.lines-con img{
+    border: none;
+    width: 118%;
+    z-index: -1;
+}
+
+.logo-con{
+    display: inline-block;
+    margin: 20px 20px 0;
+    width: 35%;
+}
+
+.logo-con img{
+    width: 100%;
+}
+
+.censor-con{
+    margin: 10px 40px 0;
+    width: 20%;
+    z-index: 1;
+    padding-bottom: 15px;
+   
+}
+
+.censor-con img{
+    width: 60%;
+    transform: rotate(90deg);
+    
+}
+
+.main-num{
+    margin-top: -7%;
+    padding-bottom: -5rem;
+    width: 100%;
+}
+
+.main-num p{
+    font-family: monospace;
+    font-size: 1.7rem;
+    width: 100%;
+    text-align: center;
+}
+
+.main-num p i{
+    font-size: medium;
+    margin-left: -50px;
+}
+
+.date{
+    margin-top: -4%;
+    width: 12%;
+    margin-left: 35%;
+}
+
+.date p{
+    font-family: monospace;
+    font-size: 13px;
+}
+
+.date-pro{
+    margin-left: 48%;
+    margin-top: -11%;
+}
+
+.date-pro p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pro2{
+    margin-left: 10%;
+    margin-top: -1%;
+    width: 50%;
+}
+
+.pro2 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+.visa-logo{
+    margin-left: 82%;
+    margin-top: -14%;
+    width: 15%;
+}
+
+.visa-logo img{
+    width: 100%;
+}
+
+.loud{
+    position: absolute;
+    margin-left: 90%;
+    margin-top: -15%;
+}
+
+.loud p i{
+    color: #0603b9;
+}
+
+
+/* The back view */
+
+#back-view{
+    background-color: #ffffff;
+    width: 400px;
+    height: 230px;
+    border: 1px solid grey;
+    position: relative;
+    border-radius: 10px;
+    margin: 5% 30%;
+    z-index: -1;
+}
+
+.num-1{
+    padding-left: 300px;
+}
+
+.num-1 p{
+    font-size: 10px;
+    padding-top: 0px;
+}
+
+.num-2{
+    background-color: #000;
+    height: 45px;
+    margin-top: -15px;
+    width: 100%;
+}
+
+.num-3{
+    padding-left: 15px;
+    position: relative;
+}
+
+.num-3 p{
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.num-3 img{
+    width: 60%;
+    height: 40px;
+    margin-top: -10px;
+    border: 1px solid #cccccc;
+}
+
+.num-3 a{
+    font-size: 16px;
+}
+
+.num-3 .cvv{
+    background-color: #cccccc;
+    padding: 5px;
+    position: absolute;
+    left: 245px;
+    top: 25px;
+}
+
+.num-4{
+    padding-top: 10px;
+}
+
+.num-4 .ber-1{
+    padding-left: 27px;
+    padding-top: 10px;
+}
+
+.num-4 .ber-1 img{
+    height: 45px;
+    border-radius: 20%;
+    width: 90%;
+}
+
+.num-4 .ber-2 p{
+    font-size: 8px;
+    line-height: 1;
+}
+
+.num-4 .ber-3{
+    margin-top: -10px;
+}
+
+.ber-4{
+    position: relative;
+}
+
+.ber-4 p{
+    position: absolute;
+    width: 90px;
+    font-size: 4px;
+    top: 48px;
+    left: -20px;
+}
+
+.the-logo{
+    position: absolute;
+    width: 250%;
+    left: -35px;
+    top: 55px;
+}
+
+
